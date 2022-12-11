@@ -1,0 +1,13 @@
+.header .banner{
+  background-color: #EE77AF;
+}
+
+.header .banner .top-banner-block>p{
+  margin: 0!important;
+}
+
+.header .container{
+  padding-left: 0!important;
+  padding-right: 0!important;
+  width: 1230px;
+}
